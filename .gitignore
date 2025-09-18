@@ -1,4 +1,4 @@
 *.css
 app.js
 passwords/
-gitignore
+*.gitignore
